@@ -1,0 +1,29 @@
+﻿  一元多项式加法.c
+c:\users\wanjiajie\desktop\数据结构\链表\链表\一元多项式加法.c(55): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\wanjiajie\desktop\数据结构\链表\链表\一元多项式加法.c(60): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  双向链表实现.c
+  归并（虚拟节点）.c
+  归并（结构引用）.c
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(7): error C2065: “NULL”: 未声明的标识符
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(14): error C2065: “NULL”: 未声明的标识符
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(14): warning C4047: “==”:“node *”与“int”的间接级别不同
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(19): error C2065: “NULL”: 未声明的标识符
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(19): warning C4047: “==”:“node *”与“int”的间接级别不同
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(24): error C2037: “data”的左侧部分指定未定义的结构/联合“node”
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(26): warning C4013: “MoveNode”未定义；假设外部返回 int
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(33): error C2037: “next”的左侧部分指定未定义的结构/联合“node”
+c:\users\wanjiajie\desktop\数据结构\链表\链表\归并（结构引用）.c(7): warning C4047: “初始化”:“node *”与“int”的间接级别不同
+  单链表实现.c
+c:\users\wanjiajie\desktop\数据结构\链表\链表\单链表实现.c(34): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\wanjiajie\desktop\数据结构\链表\链表\单链表实现.c(54): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\wanjiajie\desktop\数据结构\链表\链表\单链表实现.c(113): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\wanjiajie\desktop\数据结构\链表\链表\单链表实现.c(115): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\wanjiajie\desktop\数据结构\链表\链表\单链表实现.c(122): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
