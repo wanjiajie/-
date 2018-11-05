@@ -1,0 +1,19 @@
+
+#define N 8
+void dfs(int x,int y,int count)
+{
+    int i,tx,ty;
+    if(count>N*N)
+    {
+        output_solution();//输出一个解
+        return;
+    }
+    for(i=0; i<8; i++)
+    {
+        tx=hn[i].x;//hn[]保存八个方位子结点
+        ty=hn[i].y;
+        s[tx][ty]=count;
+        dfs(tx,ty,count+1);//递归调用
+        s[tx][ty]=0;
+    }
+}
